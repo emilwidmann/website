@@ -5424,7 +5424,9 @@ Please keep the list in alphabetical order by last name!
  trac="gwhitney"/>
 <contributor
  name="Emil Widmann"
+ location="Austria"
  trac="emil"/>
+ github="emilwidmann"/>
 <contributor
  name="Friedrich Wiemer"
  location="cryptosolutions, Germany"
